@@ -15,7 +15,7 @@ This is for coffeescript 1.7.0, from the changelog notes:
 To run:  
 ```
 nmp install coffee-script  
-node index
+node index.js
 ```
 
 You can then hit the server running locally on port 1337 and you should see a message

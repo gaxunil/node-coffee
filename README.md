@@ -17,3 +17,9 @@ To run:
 nmp install coffee-script  
 node index
 ```
+
+You can then hit the server running locally on port 1337 and you should see a message
+```
+curl http://localhost:1337
+Hello World from joe blow
+```
